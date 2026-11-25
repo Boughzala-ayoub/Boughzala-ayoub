@@ -23,6 +23,7 @@ Currently focused on backend engineering (Java/TypeScript), developer tooling, a
 | [**Turbocharger (`tc`)**](https://github.com/Boughzala-ayoub/turbocharger) | Rust · Tree-sitter · stdio MCP | Offline AST code-zoom (TS/JS, Python, Rust, Java) and installed dependency signature lookups with token-savings telemetry |
 | [**agentdbg**](https://github.com/Boughzala-ayoub/agentdbg) | Python stdlib (zero deps) | Synchronous `PreToolUse` breakpoint debugger for Claude Code — pause, inspect, edit, or deny tool calls with fail-open safety |
 | [**traceprobe**](https://github.com/Boughzala-ayoub/traceprobe) | Go (zero deps) | Single-binary loopback HTTP probe collector giving coding agents live runtime values via CLI |
+| [**turn-cost**](https://github.com/Boughzala-ayoub/turn-cost) | TypeScript · Claude Code Mods API | Per-turn USD cost, token totals (`in/out/cache`), best-effort subagent attribution & estimated 5-hour quota share |
 
 **Backend, Web & Native Systems**
 
@@ -33,6 +34,7 @@ Currently focused on backend engineering (Java/TypeScript), developer tooling, a
 | [**Wisp**](https://github.com/Boughzala-ayoub/wisp) | Rust · libghostty-vt · Direct3D 11 · ConPTY | Native Windows GPU-accelerated terminal emulator with tabs, splits, ligatures, acrylic/Mica & 771 Ghostty themes |
 | [**Screenshot Studio**](https://github.com/Boughzala-ayoub/screenshot-studio) | Rust · Tauri v2 · TypeScript · Win32/OLE | Native Windows cross-monitor capture, 8-tool Canvas 2D markup & redaction editor, H.264/MP4 region recorder, dual floating pins & COM/OLE drag-out |
 | [**AI Usage Overlay**](https://github.com/Boughzala-ayoub/ai-usage-overlay) | Electron · JavaScript · Puppeteer | Transparent, click-through multi-monitor Windows HUD & Android companion showing polled usage quotas, reset countdowns & rate-limit backoff |
+| [**secure-npm**](https://github.com/Boughzala-ayoub/secure-npm) | TypeScript · Node.js (zero deps) | Supply-chain security auditor scoring npm-resolved dependency trees (0–5) via registry & OSV.dev signals with SARIF/HTML reports |
 | [**cubemx-tools**](https://github.com/Boughzala-ayoub/cubemx-tools) & [**mxBroker**](https://github.com/Boughzala-ayoub/mxBroker) | Java · Python · MCP | Headless STM32CubeMX CLI & MCP server with set-aware three-way `.ioc` merging (`.cube`) + warm-session daemon |
 
 ---
