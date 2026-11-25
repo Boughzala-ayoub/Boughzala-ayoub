@@ -14,13 +14,14 @@ Based in Tunisia · Open to relocation in Europe & remote roles.
 
 | Project | Stack | Description |
 |---|---|---|
-| [**cubemx-tools**](https://github.com/Boughzala-ayoub/cubemx-tools) | Java · MCP | Headless STM32CubeMX CLI & MCP server with a set-aware three-way `.ioc` merge engine (`.cube`) |
-| [**mxBroker**](https://github.com/Boughzala-ayoub/mxBroker) | Python | Warm-session daemon for STM32CubeMX avoiding repeated cold starts |
+| [**GitGate**](https://github.com/Boughzala-ayoub/gitgate) | Java 21 · Spring Boot · JGit · React | Self-hostable Git server enforcing server-side per-user path-level read/write ACLs by deterministically rewriting branch history per read scope |
+| [**earmcp**](https://github.com/Boughzala-ayoub/earmcp) | Python · PyTorch · Whisper · MCP | Local multimodal audio MCP server: 527-class AudioSet tagging, timestamped Whisper ASR, librosa DSP metrics & mel spectrograms |
+| [**AI Usage Overlay**](https://github.com/Boughzala-ayoub/ai-usage-overlay) | Electron · JavaScript · Puppeteer | Transparent, click-through multi-monitor Windows HUD showing polled usage quotas, reset countdowns & account-aware rate-limit backoff across AI subscriptions |
+| [**cubemx-tools**](https://github.com/Boughzala-ayoub/cubemx-tools) & [**mxBroker**](https://github.com/Boughzala-ayoub/mxBroker) | Java · Python · MCP | Headless STM32CubeMX CLI & MCP server with a set-aware three-way `.ioc` merge engine (`.cube`) + warm-session daemon |
 | [**traceprobe**](https://github.com/Boughzala-ayoub/traceprobe) | Go | Zero-dependency single-binary loopback HTTP probe collector giving coding agents live runtime values via CLI |
 | [**iar2cmake**](https://github.com/Boughzala-ayoub/iar2cmake) | TypeScript | Converter turning IAR EWARM STM32 projects into CMake/ARM-GCC with CubeMX-style presets |
-| [**port-kill**](https://github.com/Boughzala-ayoub/port-kill) | Go | Fast cross-platform CLI to inspect and stop processes bound to local ports |
 
-*More AI tooling & systems repos (`Loom`, `aidebug`, `Screenshot Studio`, `earmcp`, `GitGate`, `Wisp`, `AI Usage Overlay`, `Turbocharger`) being prepared for public release.*
+*Next public releases in progress: `aidebug`, `Loom`, `Screenshot Studio`, `Wisp`, `Sprout`, `agentlink`, `Turbocharger`.*
 
 ---
 
